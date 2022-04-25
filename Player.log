@@ -1,0 +1,259 @@
+Mono path[0] = 'E:/SteamLibrary/steamapps/common/Grand Tactician The Civil War (1861-1865)/The Civil War (1861-1865)_Data/Managed'
+Mono config path = 'E:/SteamLibrary/steamapps/common/Grand Tactician The Civil War (1861-1865)/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path E:/SteamLibrary/steamapps/common/Grand Tactician The Civil War (1861-1865)/The Civil War (1861-1865)_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6089
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.103 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnloadTime: 0.487400 ms
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [BookRegular].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BookRegular].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BookRegular].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [BookRegular].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [SnedenReduced].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [SnedenReduced].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [SnedenReduced].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [Main_Quotes].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BookRegular].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [BrassDashes].
+The character used for Underline is not available in font asset [HoustonPen].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [BookBlack].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+The character used for Underline is not available in font asset [Mercantile_panel].
+C:0, B:0, F: 0: Loading battleprefs from folder: Config/battleprefs.txt
+C:0, B:0, F: 0: Loading unit prefs from folder Config/unitprefs.txt
+C:0, B:0, F: 0: Loading battleprefs from folder: Config/battleprefs.txt
+C:0, B:0, F: 0: Loading unit prefs from folder Config/unitprefs.txt
+C:0, B:0, F: 0: Battle UI initialized!
+C:0, B:0, F: 0: Initializing Panelhandler...
+C:0, B:0, F: 0: Initializing Panelhandler completed!
+C:0, B:0, F: 0: Loading Resolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 0: currentresolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 0: prefs loaded: feuds:True fow:True orderdel:True readiness:False camrot:True
+C:0, B:0, F: 0: Starting game... False
+C:0, B:0, F: 0: Loading Video: GT-logo_LHFW_sound_2
+C:0, B:0, F: 0: Current version: 1.0614
+C:0, B:0, F: 0: -----------------------  Activate Main Menu: True
+C:0, B:0, F: 0: activating main menu: True
+C:0, B:0, F: 0: Moving Audio Listener:0 AL:AudioListener (UnityEngine.GameObject)
+C:0, B:0, F: 0: Menu activation finished!
+C:0, B:0, F: 0: resetting resolution to 1920/1080
+C:0, B:0, F: 0: Loading Resolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 0: currentresolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 0: prefs loaded: feuds:True fow:True orderdel:True readiness:False camrot:True
+C:0, B:0, F: 0: resetting resolution to 1920/1080
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+C:0, B:0, F: 1: reading nations from folder: E:\SteamLibrary\steamapps\common\Grand Tactician The Civil War (1861-1865)\Campaigns\001\F
+C:0, B:0, F: 1: overwrite alliances
+C:0, B:0, F: 1: import commanders called!
+C:0, B:0, F: 1: Update Commander Ranks called!
+C:0, B:0, F: 1: 0 deactivated! 0/70
+C:0, B:0, F: 1: 1 activated! 1/71
+C:0, B:0, F: 1: 2 deactivated! 2/72
+C:0, B:0, F: 1: 3 deactivated! 3/73
+C:0, B:0, F: 1: 4 deactivated! 4/74
+C:0, B:0, F: 1: 5 deactivated! 5/75
+C:0, B:0, F: 1: 6 activated! 6/76
+C:0, B:0, F: 1: 7 deactivated! 7/77
+C:0, B:0, F: 1: 8 activated! 8/78
+C:0, B:0, F: 1: 9 deactivated! 9/79
+C:0, B:0, F: 1: 0 deactivated! 0/70
+C:0, B:0, F: 1: 1 activated! 1/71
+C:0, B:0, F: 1: 2 deactivated! 2/72
+C:0, B:0, F: 1: 3 deactivated! 3/73
+C:0, B:0, F: 1: 4 deactivated! 4/74
+C:0, B:0, F: 1: 5 deactivated! 5/75
+C:0, B:0, F: 1: 6 activated! 6/76
+C:0, B:0, F: 1: 7 deactivated! 7/77
+C:0, B:0, F: 1: 8 activated! 8/78
+C:0, B:0, F: 1: 9 deactivated! 9/79
+C:0, B:0, F: 1: 0 deactivated! 0/70
+C:0, B:0, F: 1: 1 activated! 1/71
+C:0, B:0, F: 1: 2 deactivated! 2/72
+C:0, B:0, F: 1: 3 deactivated! 3/73
+C:0, B:0, F: 1: 4 deactivated! 4/74
+C:0, B:0, F: 1: 5 deactivated! 5/75
+C:0, B:0, F: 1: 6 activated! 6/76
+C:0, B:0, F: 1: 7 deactivated! 7/77
+C:0, B:0, F: 1: 8 activated! 8/78
+C:0, B:0, F: 1: 9 deactivated! 9/79
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+C:0, B:0, F: 1: reading nations from folder: E:\SteamLibrary\steamapps\common\Grand Tactician The Civil War (1861-1865)\Battlefields\006\B
+C:0, B:0, F: 1: overwrite alliances
+C:0, B:0, F: 1: import commanders called!
+C:0, B:0, F: 1: Update Commander Ranks called!
+C:0, B:0, F: 1: Loading Resolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 1: currentresolution: 1920/1080/60hz, fullscreen:False
+C:0, B:0, F: 1: prefs loaded: feuds:True fow:True orderdel:True readiness:False camrot:True
+C:0, B:0, F: 1: resetting resolution to 1920/1080
+C:0, B:0, F: 1: loading scenario file: Campaign
+Union
+July 8, 1861
+last save: April 25, 2022
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 17c -> priority: 1 
+  Thread -> id: 4f4 -> priority: 1 
+  Thread -> id: cc0 -> priority: 1 
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+C:0, B:0, F: 94: Removing video!
+C:0, B:0, F: 94: Removing video!
+C:0, B:0, F: 95: Loading Video: GTCW_MAIN_MENU_FINAL_NO_MUSIC
+C:0, B:0, F: 95: playing sound 4
+C:0, B:0, F: 95: loading scenario file: Campaign
+Union
+July 8, 1861
+last save: April 25, 2022
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-09904dc19209dec550d2a15924211f5a/CAB-09904dc19209dec550d2a15924211f5a.resource
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+Font size and style overrides are only supported for dynamic fonts. Font 'IMFeGPit28P' is not dynamic.
+C:0, B:0, F: 5671: Quitting game by 036
+C:0, B:0, F: 5671: Quitting game by 036_Quit
+C:0, B:0, F: 5671: buttonpressed:036_Quit (UnityEngine.GameObject)
+C:0, B:0, F: 5671: Removing video!
+Curl error 42: Callback aborted
